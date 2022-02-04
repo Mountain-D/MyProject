@@ -11,10 +11,11 @@ class Game extends hxd.App {
 
         new Game();
     }
+    
     override function init() {
 
-        // Load data from 'database.cdb'
-        Data.load(hxd.Res.database.entry.getText());
+        // Load data from 'data.cdb'
+        Data.load(hxd.Res.data.entry.getText());
 
     }
     override function update(dt:Float) {

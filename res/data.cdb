@@ -22,7 +22,7 @@
 					"Tiles": {
 						"file": "water.png",
 						"size": 32,
-						"x": 1,
+						"x": 0,
 						"y": 0
 					}
 				}
