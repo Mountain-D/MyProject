@@ -1,0 +1,7 @@
+-cp scr
+-lib heaps
+-lib hldx
+-lib castle
+-hl start.hl
+-m Game
+-D windowSize=1366x768

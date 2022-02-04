@@ -1,0 +1,36 @@
+{
+	"sheets": [
+		{
+			"name": "tileset",
+			"columns": [
+				{
+					"typeStr": "14",
+					"name": "Tiles",
+					"display": null
+				}
+			],
+			"lines": [
+				{
+					"Tiles": {
+						"file": "ground.png",
+						"size": 32,
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"Tiles": {
+						"file": "water.png",
+						"size": 32,
+						"x": 1,
+						"y": 0
+					}
+				}
+			],
+			"separators": [],
+			"props": {}
+		}
+	],
+	"customTypes": [],
+	"compress": false
+}
